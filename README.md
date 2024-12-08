@@ -6,21 +6,11 @@
 </div>
 <p align="center">
   <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/liu-ruofan">Paper</a> •
-  <a href="https://sites.google.com/view/
-phishintention">Website</a> •
-  <a href="https://www.youtube.com/watch?v=yU7FrlSJ818">Video</a> •
-  <a href="#citation">Citation</a>
+  <a href="https://sites.google.com/view/phishintention](https://github.com/lindsey98/PhishIntention">Github</a> •
 </p>
 
 ## PhishIntention
-- This is the official implementation of "Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision-Based Approach"USENIX'22 [link to paper](http://linyun.info/publications/usenix22.pdf), [link to our website](https://sites.google.com/view/phishintention/home)
-
-- Existing reference-based phishing detectors:
-   - :x: Subject to false positive because they **only capture brand intention**
-     
-- The contributions of our paper:
-   - :white_check_mark: We propose a referenced-based phishing detection system that captures both brand intention and **credential-taking intention**. To the best of our knowledge, this is the first work that analyzes both brand intention and credential-taking intentions in a systematic way for phishing detection.
-   - :white_check_mark: We set up a **phishing monitoring system**. It reports phishing webpages per day with the **highest precision** in comparison to state-of-the-art phishing detection solutions.
+- This is the unofficial implementation of "Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision-Based Approach"USENIX'22, with White-Box and Black-Box attacks on the model
 
 ## Framework
 <img src="big_pic/Screenshot 2021-08-13 at 9.15.56 PM.png" style="width:2000px;height:350px"/>
@@ -100,11 +90,21 @@ test_site_2
 ......
 ```
 
+5. White-Box Attacks
+```bash
+python WhiteBox_Attack.py  
+```
+
+6. Black-Box Attacks
+```bash
+python BlackBox_Attack.py  
+```
+
 ## Miscellaneous
-- In our paper, we also implement several phishing detection and identification baselines, see [here](https://github.com/lindsey98/PhishingBaseline)
+- Implementation of several phishing detection and identification baselines, see [here](https://github.com/lindsey98/PhishingBaseline)
 
 ## Citation
-Please consider citing our work :)
+
 ```bibtex
 @inproceedings{liu2022inferring,
   title={Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach},
@@ -113,4 +113,4 @@ Please consider citing our work :)
   year={2022}
 }
 ```
-If you have any issues running our code, you can raise an issue or send an email to [liu.ruofan16@u.nus.edu, lin_yun@sjtu.edu.cn, dcsdjs@nus.edu.sg](mailto:liu.ruofan16@u.nus.edu,lin_yun@sjtu.edu.cn,dcsdjs@nus.edu.sg)
+

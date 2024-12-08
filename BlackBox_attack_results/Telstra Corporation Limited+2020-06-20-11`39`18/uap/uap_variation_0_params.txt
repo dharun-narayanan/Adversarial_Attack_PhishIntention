@@ -1,0 +1,2 @@
+Original image size: (1080, 1920, 3)
+epsilon: 6.993283120487906

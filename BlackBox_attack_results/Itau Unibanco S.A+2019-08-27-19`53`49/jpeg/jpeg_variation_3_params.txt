@@ -1,0 +1,2 @@
+Original image size: (768, 1803, 3)
+quality: 14

@@ -1,0 +1,4 @@
+Original image size: (1080, 1920, 3)
+shift_x: -128
+shift_y: -8
+angle: -3.343134840060025

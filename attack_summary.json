@@ -1,0 +1,112 @@
+{
+  "Bankia+2019-09-08-17`25`01": {
+    "original_pred": 1,
+    "url": "{'sector': 'Financial', 'url': 'http://u0803923.cp.regruhosting.ru/weg.van.ongepaste.websites/maria.firi.rabda.eas7238723/uploudpis8373/bq/sms.htm', 'ip': '37.140.192.153', 'brand': 'Bankia', 'isotime': '2019-09-07T17:10:13Z', 'asn_name': 'Domain names registrar REG.RU, Ltd', 'discover_time': '07-09-2019 17:10:13 UTC', 'asn': 'AS197695', 'family_id': 'e63f5317eaf76a2a6fd78390fa748208', 'host': 'u0803923.cp.regruhosting.ru', 'country_code': 'RU', 'tld': 'ru', 'country_name': 'Russian Federation', 'phishing_kit': None, 'emails': []}",
+    "attacks": {
+      "jpeg": {
+        "jpeg_variation_8.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "jpeg_variation_1.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "jpeg_variation_3.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "jpeg_variation_6.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "jpeg_variation_5.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        }
+      },
+      "uap": {
+        "uap_variation_5.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "uap_variation_4.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "uap_variation_6.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "uap_variation_7.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "uap_variation_3.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "uap_variation_2.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "uap_variation_0.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "uap_variation_1.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "uap_variation_9.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "uap_variation_8.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        }
+      },
+      "spatial": {
+        "spatial_variation_5.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "spatial_variation_7.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "spatial_variation_8.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        }
+      },
+      "color": {
+        "color_variation_5.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "color_variation_4.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "color_variation_7.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "color_variation_3.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "color_variation_0.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        },
+        "color_variation_1.png": {
+          "prediction": 0,
+          "original_prediction": 1
+        }
+      }
+    }
+  }
+}
